@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string-array name="tip">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="numOfPeople">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string name="tip">Tip %</string>
+    <string name="people"># of People</string>
+    <string name="calc">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="hintAmm">Enter amount</string>
+    <string name="HST">Add HST</string>
+</resources>
